@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urp:home|Door43 (urp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urp|d43-urp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urp/archive/master.zip|d43-urp.zip]]
+
+**Recent Changes**
+{{changes>ns = urp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urp|Ethnologue data]]
+
